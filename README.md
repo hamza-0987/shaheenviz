@@ -31,21 +31,21 @@ Shaheenviz is a cutting-edge Python library that revolutionizes Exploratory Data
   <table>
     <tr>
       <td align="center">
-        <img src="https://via.placeholder.com/400x250/2E8B57/FFFFFF?text=Interactive+Reports" alt="Interactive Reports" width="350">
+        <img src="https://www.boldreports.com/wp-content/uploads/elementor/thumbs/Interactive-banner-image-scaled-q9091vtx8zh2k4oinysy9fym0h2t671a1ruw8e0wp4-qajqb4kp22usdc43woa9uey2nx04yzzhjvu3fdc32g.jpg" alt="Interactive Reports" width="350">
         <br><strong>Interactive HTML Reports</strong>
       </td>
       <td align="center">
-        <img src="https://via.placeholder.com/400x250/4682B4/FFFFFF?text=Dataset+Comparison" alt="Dataset Comparison" width="350">
+        <img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/docmatix_dataset_comp.png" alt="Dataset Comparison" width="350">
         <br><strong>Dataset Comparison</strong>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://via.placeholder.com/400x250/FF6347/FFFFFF?text=Smart+Analytics" alt="Smart Analytics" width="350">
+        <img src="https://www.sm-analytics.com/storage/app/media/pages/home/smart-data.png" alt="Smart Analytics" width="350">
         <br><strong>Smart Analytics</strong>
       </td>
       <td align="center">
-        <img src="https://via.placeholder.com/400x250/9370DB/FFFFFF?text=CLI+Interface" alt="CLI Interface" width="350">
+        <img src="https://builtin.com/sites/www.builtin.com/files/styles/ckeditor_optimize/public/inline-images/1_command-line%20interface.png" alt="CLI Interface" width="350">
         <br><strong>Command Line Interface</strong>
       </td>
     </tr>
