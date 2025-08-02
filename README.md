@@ -8,13 +8,7 @@
     Combining YData Profiling & Sweetviz for Stunning Insights
   </p>
   
-  <p align="center">
-    [![PyPI version](https://badge.fury.io/py/shaheenviz.svg)](https://badge.fury.io/py/shaheenviz)
-    [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-    [![Python 3.7+](https://img.shields.io/badge/python-3.7+-brightgreen.svg)](https://www.python.org/downloads/)
-    [![Downloads](https://pepy.tech/badge/shaheenviz)](https://pepy.tech/project/shaheenviz)
-    [![GitHub stars](https://img.shields.io/github/stars/hamza-0987/shaheenviz?style=social)](https://github.com/hamza-0987/shaheenviz/stargazers)
-  </p>
+ 
   
   <p align="center">
     <a href="#-quick-start">Quick Start</a> •
